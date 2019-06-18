@@ -48,3 +48,10 @@ dist/
 # Go packages
 src/gopkg.in
 src/github.com
+
+#Added by cargo
+#
+#already existing elements are commented out
+
+/target
+**/*.rs.bk
